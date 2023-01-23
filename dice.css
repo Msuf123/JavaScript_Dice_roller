@@ -1,0 +1,29 @@
+*{
+background-color:rgb(169,169,169);
+}
+img{
+display: block;
+height:300px;
+width:300px;
+padding:10px;
+
+margin:100px auto;
+border:2px  solid black;
+
+
+}
+p{
+
+margin:  auto;
+padding: 10px 15px;
+width:max-content;
+border:2px black solid;
+color:green;
+}
+p:hover{
+background-color:rgb(112,128,144);
+}
+#output{
+display:none;
+
+}
